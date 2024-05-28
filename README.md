@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🚀 studying Web development at the Wild Code School <br>🌱 learning how to make requests and get responses from a database using JS and Express<br>🎯 looking for an apprenticeship in for september 2024 <br>🔧 creating a card game using React JS</p>
+<p align="left">🚀 studying Web development at the Wild Code School <br>🌱 learning how to make requests and get responses from a database using JS and Express<br>🎯 looking for an apprenticeship for september 2024 <br>🔧 creating a card game using React JS</p>
 
 ###
 
@@ -41,25 +41,3 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/wilderLPM/count.svg?"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/wilderLPM/wilderLPM/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
