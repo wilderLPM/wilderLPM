@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🚀 studying Web development at the Wild Code School <br>🌱 learning how to make requests and get responses from a database using JS and Express<br>🎯 looking for an apprenticeship for september 2024 <br>🔧 creating a card game using React JS</p>
+<p align="left">🚀 beginning a 14 month web developpment apprenticeship <br>🌱 expending my knowledge of TypeScript
 
 ###
 
